@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-Grid/static/css/main.e1670f9f.css",
+    "main.js": "/Card-Grid/static/js/main.3ba3781e.js",
+    "static/js/787.cdfe00ef.chunk.js": "/Card-Grid/static/js/787.cdfe00ef.chunk.js",
+    "index.html": "/Card-Grid/index.html",
+    "main.e1670f9f.css.map": "/Card-Grid/static/css/main.e1670f9f.css.map",
+    "main.3ba3781e.js.map": "/Card-Grid/static/js/main.3ba3781e.js.map",
+    "787.cdfe00ef.chunk.js.map": "/Card-Grid/static/js/787.cdfe00ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1670f9f.css",
+    "static/js/main.3ba3781e.js"
+  ]
+}
