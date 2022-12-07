@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+.HeaderDiv {
+    background-color: #fff;
+    border-bottom: 2px solid rgb(185, 183, 183);
+    padding: 16px 78px;
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+    position: fixed;
+    top: 0;
+  }
+  .header {
+    display: flex;
+    align-items: center;
+  }
+  .edyoda {
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: 800;
+    font-family: "Raleway", sans-serif;
+  }
+  .stories {
+    margin: 0;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Raleway", sans-serif;
+  }
+  .explore {
+    margin-left: 82px;
+    font-family: "Raleway", sans-serif;
+    display: flex;
+    align-items: center;
+    width: 182px;
+    justify-content: space-between;
+  }
+  .explore:hover {
+    cursor: pointer;
+  }
+  .quoteDiv {
+    margin-left: 350px;
+    opacity: .6;
+    font-family: Raleway,sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: .4px;
+    color: rgba(0,0,0,.6);
+  }
+  .quoteDiv p{
+    width: 321px;
+    opacity: 0.7;
+  }
+  .buttonDiv {
+    margin-left: 7%;
+  }
+  button {
+    border: none;
+    cursor: pointer;
+    color: #fff;
+    outline: none;
+    font-family: Raleway,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: .03em;
+    background: linear-gradient(269deg,#0048ff,#0096ff);
+    width: 200px;
+    font-size: 0.75em;
+    padding: 0.5em 2em;
+    margin: 0px 1em 0px 0px;
+    box-shadow: none;
+    box-shadow: none;
+    border-radius: 22px;
+    height: 46px;
+    padding: 0px 12px;
+  }
